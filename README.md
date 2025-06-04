@@ -18,7 +18,7 @@
 
 ## 💼 Contacto
 
-- 📧 Email: tuemail@ejemplo.com
+- 📧 Email: lucasbahamondestoro@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-bahamondes-toro/)
 
 ---
