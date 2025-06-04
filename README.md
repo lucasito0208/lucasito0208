@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Lucas 👋
 
-<!--
-**lucasito0208/lucasito0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador Backend apasionado por la arquitectura de software limpia, los microservicios y la eficiencia.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que manejo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ Java + Spring Boot
+- 📡 Kafka y mensajería basada en eventos
+- 🧠 Neo4j y bases de datos orientadas a grafos
+- 🐳 Docker, Git, CI/CD
+- ☁️ WebClient, FeignClient, APIs RESTful
+
+## 🔥 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [Cluster Offers System](https://github.com/lucasbahamondestoro/cluster-offers-system) | Sistema distribuido con microservicios que gestiona productos, relaciones y publicaciones a través de Kafka. | Java, Spring Boot, Kafka, Neo4j |
+
+## 💼 Contacto
+
+- 📧 Email: tuemail@ejemplo.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-bahamondes-toro/)
+
+---
+
+_Siempre explorando nuevas formas de optimizar el backend y conectar sistemas de manera eficiente._
